@@ -27,7 +27,7 @@ See [here](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-
 
 [This](https://en.wikipedia.org/wiki/HTC_Desire) phone.
 Pretty good condition.
-Not sure what software is on this, IIRC it is still stock.
+Currently has Android 2.3 with CyanogenMod.
 
 ### Bluetooth keyboard and trackpad
 
