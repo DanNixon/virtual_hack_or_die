@@ -29,12 +29,6 @@ See [here](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-
 Pretty good condition.
 Not sure what software is on this, IIRC it is still stock.
 
-### Galaxy Nexus
-
-[This](https://en.wikipedia.org/wiki/Galaxy_Nexus) phone.
-In pretty good condition, comes with an Otter Box case that is rather worse off.
-Supports up to Andoird 4.3 officially, not sure what I last loaded onto it.
-
 ### Bluetooth keyboard and trackpad
 
 [This](https://1byone.com/ultra-slim-wireless-bluetooth-keyboard.html) keyboard.
