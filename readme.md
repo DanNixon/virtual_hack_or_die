@@ -36,12 +36,3 @@ US layout.
 Rechargeable.
 In good condition and works fine.
 Not used in a long time and I have plenty of other keyboards that are nicer to type on.
-
-### Bluetooth keyboard
-
-[This](https://www.ebay.com/itm/Motorola-ATRIX-XOOM-Universal-Bluetooth-Wireless-Full-Size-Keyboard-SJYN0700A/264429560501) keyboard.
-US layout.
-Takes 2xAA.
-Not used in several many years.
-Pretty sure I got this to take lecture notes on my phone in my first year at uni.
-Like I say, several many years.
