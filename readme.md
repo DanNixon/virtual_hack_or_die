@@ -23,12 +23,6 @@ See [here](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-
 - Several 1 cell lithium polymer cells (previously used for small quadcopters, most have the "Hubsan" connector, some have JST)
 - Certainly more, but I don't have all the details of them to hand...
 
-### HTC Desire
-
-[This](https://en.wikipedia.org/wiki/HTC_Desire) phone.
-Pretty good condition.
-Currently has Android 2.3 with CyanogenMod.
-
 ### Bluetooth keyboard and trackpad
 
 [This](https://1byone.com/ultra-slim-wireless-bluetooth-keyboard.html) keyboard.
