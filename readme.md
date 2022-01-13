@@ -19,7 +19,6 @@ See [here](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-
 
 ### Batteries
 
-- ~10 18650 lithium-ion cells (salvaged from an old laptop battery pack)
 - Several 1 cell lithium polymer cells (previously used for small quadcopters, most have the "Hubsan" connector, some have JST)
 - Certainly more, but I don't have all the details of them to hand...
 
