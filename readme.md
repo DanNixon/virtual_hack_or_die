@@ -12,20 +12,7 @@ will reply):
 
 ## Things
 
-### Pocket C.H.I.P.
-
-A Pocket C.H.I.P. from the Kickstarter campaign.
-See [here](https://shop.pocketchip.co/collections/frontpage/products/pocket-c-h-i-p-new).
-
 ### Batteries
 
 - Several 1 cell lithium polymer cells (previously used for small quadcopters, most have the "Hubsan" connector, some have JST)
 - Certainly more, but I don't have all the details of them to hand...
-
-### Bluetooth keyboard and trackpad
-
-[This](https://1byone.com/ultra-slim-wireless-bluetooth-keyboard.html) keyboard.
-US layout.
-Rechargeable.
-In good condition and works fine.
-Not used in a long time and I have plenty of other keyboards that are nicer to type on.
